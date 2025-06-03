@@ -24,11 +24,11 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "bundler": "metro",
+      "bundler": "webpack",
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
-    "plugins": [  ],
+    "plugins": [],
     "experiments": {
       "typedRoutes": true
     }
